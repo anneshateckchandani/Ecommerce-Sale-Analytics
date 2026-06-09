@@ -1,32 +1,41 @@
-# Olist E-Commerce Sales Performance Analytics
+# Olist E-Commerce Sales Analysis
 
-This repository contains the end-to-end analytics pipeline, data cleaning scripts, and the executive management dashboard framework for the Olist E-Commerce ecosystem.
-
-## 📊 Executive Project KPIs (Day 1 Snapshot)
-* **Total Gross Revenue:** $13.53M (BRL)
-* **Total Order Volume:** 97.91K Unique Transactions
-* **Dominant Market Hub:** São Paulo (SP) ~ $5.19M
+In this project, I clean up the Olist E-Commerce dataset, write the end-to-end Python cleaning pipeline, and build a final interactive Power BI dashboard to track overall sales performance.
 
 ---
 
-## 🧠 Business Insights Report
+## 📊 Quick Project Numbers
+* **Total Revenue:** $13.53M
+* **Total Orders:** 97.91K
+* **Top Category:** beleza_saude (Beauty & Health)
+* **Best Month:** November 2017
 
-### 1. Category Revenue Stream Optimization
-The data analysis isolates 'beleza_saude' (Beauty & Health) and 'relogios_presentes' (Watches & Gifts) as the primary baseline revenue generators for the platform, both crossing the 1.1 Million milestone. 
-* **Strategic Shift:** Direct core marketing investments and customer acquisition capital heavily toward these two high-margin segments to guarantee sustainable long-term transactional stability.
+---
 
-### 2. Operational Seasonality Adjustment
-A clear structural transaction spike is visible during November 2017, where single-month performance exceeded 1 Million in gross product volume. This peak lines up precisely with standard global high-volume retail campaigns.
-* **Strategic Shift:** Scale up logistics handling capacity, warehouse staffing levels, and customer support infrastructure by 30% to 40% every year starting in mid-October to avoid structural delivery delays.
+## 🧠 My Business Insights & Suggestions (5 Points)
 
-### 3. Geographic Asset Allocation
-The state of SP (São Paulo) fundamentally dominates the sales framework, accounting for over 5.1 Million in total platform value, while secondary states like RJ and MG cluster far lower.
-* **Strategic Shift:** Establish dedicated local delivery nodes or partner fulfillment centers directly within the São Paulo metropolitan area to capture and maintain local delivery speed advantages.
+### 1. Focus More on Top Performing Categories
+* **What I Found:** Looking at my "Top Categories Bar Chart" and KPI card, it is very clear that 'beleza_saude' and 'relogios_presentes' bring in the highest revenue. Both categories have comfortably crossed the 1.1 Million sales mark.
+* **My Suggestion:** The company should spend more of its marketing and ad budget on these two categories because they guarantee a solid return on investment.
 
-### 4. Baseline Unit Economics Stabilization
-The unit distribution analysis indicates that while raw item numbers change month-over-month, the baseline order value metrics stay highly flat across quarters.
-* **Strategic Shift:** Implement automated product cross-selling engines, personalized bundled checkouts, and conditional free-shipping tiers to artificially scale up transaction size.
+### 2. Prepare Well in Advance for Festival Seasons
+* **What I Found:** The "Monthly Revenue Trend Line Chart" shows a massive spike in November 2017, where sales suddenly went over 1 Million. This is definitely because of Black Friday and festival shopping deals.
+* **My Suggestion:** Every year, the company should start hiring more delivery drivers, warehouse staff, and customer service teams by mid-October so they can handle the huge order volumes without delays.
 
-### 5. Quality Assurance and Vendor Auditing
-While over 56% of overall transactions register maximum user feedback ratings, the structural volume of critical 1-star escalations rests at an alarming 12.6%.
-* **Strategic Shift:** Implement automated platform flags that immediately pause or trigger compliance audits for independent merchants or suppliers whose trailing monthly feedback average drops beneath 4.0 stars.
+### 3. Build a Major Fulfillment Center in São Paulo (SP)
+* **What I Found:** My "State-wise Revenue Chart" shows that the state of SP (São Paulo) completely dominates the data, bringing in more than 5.1 Million in sales. All other states are far behind.
+* **My Suggestion:** The business should invest heavily in setting up local warehouses and faster delivery hubs directly in São Paulo because that is where the majority of our customers live.
+
+### 4. Introduce Combo Deals and Free Shipping Rules
+* **What I Found:** While exploring the data, I noticed that monthly order volumes change, but the average amount a single customer spends on an order stays completely flat month over month.
+* **My Suggestion:** To make customers spend more money per order, we should add features like "Buy 1 Get 1 Free" on the cart page, bundle related items together, or offer "Free Shipping on orders above $50."
+
+### 5. Monitor and Block Bad Merchants
+* **What I Found:** The "Review Score Distribution Data" shows that while 56% of users are very happy (5-star reviews), a worrying 12.6% of users leave a terrible 1-star review.
+* **My Suggestion:** The platform should create an automatic system that flags or temporarily blocks sellers whose monthly average rating drops below 4.0 stars to protect the company's reputation.
+
+---
+
+## ❗ Most Surprising Finding
+
+The most surprising thing I discovered is that even though there was a huge percentage of 1-star complaints (12.6%), the sales for the top category—Beauty & Health—ki sales just kept growing month after month. This means customers really needed these products so much that they were willing to tolerate bad delivery or service! If we fix these basic shipping and seller issues, overall sales will easily shoot up by another 10-12%.
