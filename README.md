@@ -4,7 +4,7 @@ In this project, I clean up the Olist E-Commerce dataset, write the end-to-end P
 
 ---
 
-## 📊 Quick Project Numbers
+## Quick Project Numbers
 * **Total Revenue:** $13.53M
 * **Total Orders:** 97.91K
 * **Top Category:** beleza_saude (Beauty & Health)
@@ -12,7 +12,7 @@ In this project, I clean up the Olist E-Commerce dataset, write the end-to-end P
 
 ---
 
-## 🧠 My Business Insights & Suggestions (5 Points)
+## My Business Insights & Suggestions (5 Points)
 
 ### 1. Focus More on Top Performing Categories
 * **What I Found:** Looking at my "Top Categories Bar Chart" and KPI card, it is very clear that 'beleza_saude' and 'relogios_presentes' bring in the highest revenue. Both categories have comfortably crossed the 1.1 Million sales mark.
@@ -36,6 +36,6 @@ In this project, I clean up the Olist E-Commerce dataset, write the end-to-end P
 
 ---
 
-## ❗ Most Surprising Finding
+## Most Surprising Finding
 
-The most surprising thing I discovered is that even though there was a huge percentage of 1-star complaints (12.6%), the sales for the top category—Beauty & Health—ki sales just kept growing month after month. This means customers really needed these products so much that they were willing to tolerate bad delivery or service! If we fix these basic shipping and seller issues, overall sales will easily shoot up by another 10-12%.
+The most surprising thing I discovered is that even though there was a huge percentage of 1-star complaints (12.6%), the sales for the top category—Beauty & Health— sales just kept growing month after month. This means customers really needed these products so much that they were willing to tolerate bad delivery or service! If we fix these basic shipping and seller issues, overall sales will easily shoot up by another 10-12%.
